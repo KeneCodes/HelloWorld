@@ -6,7 +6,7 @@ Originally created in 2022, I updated this project on **May 31, 2026**, to kicks
 
 ## About Me
 
-- 👋 **Name:** KeneChukwu
+- 👋 **Name:** Kenechukwu
 - 🎯 **Current Focus:** Learning front-end web development.
 - 📖 **Currently Reading:** _Atomic Habits_ by James Clear.
 
